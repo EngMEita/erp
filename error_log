@@ -1,0 +1,2 @@
+[09-Aug-2015 16:29:35 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sysibnjebreen/public_html/inc/db.class.php on line 38
+[09-Aug-2015 16:29:54 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sysibnjebreen/public_html/inc/db.class.php on line 38

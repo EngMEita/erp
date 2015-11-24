@@ -1,0 +1,1 @@
+<li><a href="index.php?c=hcp-plans&r=fcp"><i class="fa fa-bar-chart-o fa-fw"></i> لوحه الشؤون المالية</a></li>

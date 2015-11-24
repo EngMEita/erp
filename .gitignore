@@ -41,3 +41,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.jpg
+*.gif
+*.docx
+*.xml
+*.sql
+*.html
+*.svg
+*.wrl
+accounting/10_accounting.cache
+accounting/10_accounting.txt
